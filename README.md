@@ -8,7 +8,6 @@ Control your system volume using hand gestures captured via webcam! This project
 *MediaPipe<br>
 *Pycaw (for system audio control)<br>
 *NumPy<br>
-*Math (for calculating distances)<br>
 
 🚀 Features<br>
 
